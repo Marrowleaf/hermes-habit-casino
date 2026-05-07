@@ -1,5 +1,8 @@
 # Habit Casino
 
+## Part of the Hermes Agent Ecosystem
+Explore more skills at [github.com/Marrowleaf?tab=repositories](https://github.com/Marrowleaf?tab=repositories&filter=hermes-)
+
 > RPG gamification engine for real life — earn XP, unlock achievements, complete dynamic quests, and battle past versions of yourself.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Marrowleaf/hermes-habit-casino)
@@ -58,3 +61,7 @@ casino:leaderboard --period month      # Monthly narrative summary
 ## License
 
 MIT
+
+## Related Hermes Skills
+- [hermes-consensus-engine](https://github.com/Marrowleaf/hermes-consensus-engine) — Multi-model consensus and decision engine
+- [hermes-self-evolving-agent](https://github.com/Marrowleaf/hermes-self-evolving-agent) — Self-evolving agent capabilities
